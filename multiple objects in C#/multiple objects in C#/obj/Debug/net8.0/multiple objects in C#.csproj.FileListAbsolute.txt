@@ -1,0 +1,14 @@
+C:\Users\USER\source\repos\multiple objects in C#\multiple objects in C#\bin\Debug\net8.0\multiple objects in C#.exe
+C:\Users\USER\source\repos\multiple objects in C#\multiple objects in C#\bin\Debug\net8.0\multiple objects in C#.deps.json
+C:\Users\USER\source\repos\multiple objects in C#\multiple objects in C#\bin\Debug\net8.0\multiple objects in C#.runtimeconfig.json
+C:\Users\USER\source\repos\multiple objects in C#\multiple objects in C#\bin\Debug\net8.0\multiple objects in C#.dll
+C:\Users\USER\source\repos\multiple objects in C#\multiple objects in C#\bin\Debug\net8.0\multiple objects in C#.pdb
+C:\Users\USER\source\repos\multiple objects in C#\multiple objects in C#\obj\Debug\net8.0\multiple objects in C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\multiple objects in C#\multiple objects in C#\obj\Debug\net8.0\multiple objects in C#.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\multiple objects in C#\multiple objects in C#\obj\Debug\net8.0\multiple objects in C#.AssemblyInfo.cs
+C:\Users\USER\source\repos\multiple objects in C#\multiple objects in C#\obj\Debug\net8.0\multiple objects in C#.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\multiple objects in C#\multiple objects in C#\obj\Debug\net8.0\multiple objects in C#.dll
+C:\Users\USER\source\repos\multiple objects in C#\multiple objects in C#\obj\Debug\net8.0\refint\multiple objects in C#.dll
+C:\Users\USER\source\repos\multiple objects in C#\multiple objects in C#\obj\Debug\net8.0\multiple objects in C#.pdb
+C:\Users\USER\source\repos\multiple objects in C#\multiple objects in C#\obj\Debug\net8.0\multiple objects in C#.genruntimeconfig.cache
+C:\Users\USER\source\repos\multiple objects in C#\multiple objects in C#\obj\Debug\net8.0\ref\multiple objects in C#.dll
